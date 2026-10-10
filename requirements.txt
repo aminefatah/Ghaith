@@ -1,0 +1,31 @@
+# Pinned Python dependencies for the Challenge 813 project
+# Recommended Python version: 3.11
+
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.9.2
+scipy==1.14.1
+scikit-learn==1.5.2
+h5py==3.12.1
+
+rasterio==1.4.3
+geopandas==1.0.1
+shapely==2.0.6
+pyproj==3.7.0
+xarray==2024.10.0
+rioxarray==0.18.1
+OWSLib==0.32.0
+
+pystac==1.11.0
+pystac-client==0.8.5
+planetary-computer==1.0.0
+stackstac==0.5.1
+leafmap==0.38.11
+
+ipywidgets==8.1.5
+jupyterlab==4.3.1
+notebook==7.3.1
+
+requests==2.32.3
+urllib3==2.2.3
+certifi==2024.8.30
