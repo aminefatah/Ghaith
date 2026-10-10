@@ -1,0 +1,73 @@
+approach,farmer_id,crop,crop_family,final_score,rank,environmental_suitability,water_compatibility,objective_compatibility,feed_contribution,rotation_benefit,diversity_benefit,soil_health_benefit,suitability_value_source,suitability_is_assumption
+Independent,F01,Lentil,Legume,0.7085,1.0,0.7,0.7,0.8,0.5,0.96,0.5,0.85,Prototype baseline assumption,True
+Independent,F01,Faba bean,Legume,0.67,2.0,0.73,0.5,0.75,0.5,0.96,0.5,0.85,Prototype baseline assumption,True
+Independent,F01,Wheat,Cereal,0.618,3.0,0.825,0.44999999999999996,0.9,0.5,0.28,0.5,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Independent,F02,Faba bean,Legume,0.6163154545454546,1.0,0.73,0.5,0.4625,0.3944045454545454,0.96,0.5,0.85,Prototype baseline assumption,True
+Independent,F02,Forage oats,Cereal,0.599859090909091,2.0,0.72,0.5,0.7875,0.657340909090909,0.30000000000000004,0.5,0.4,Prototype baseline assumption,True
+Independent,F02,Barley,Cereal,0.5950736363636363,3.0,0.725,0.6,0.6875,0.5894863636363635,0.28,0.5,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Independent,F03,Faba bean,Legume,0.6348817727272728,1.0,0.73,0.5,0.6,0.3738177272727273,0.96,0.5,0.85,Prototype baseline assumption,True
+Independent,F03,Lentil,Legume,0.6266320909090909,2.0,0.7,0.7,0.47500000000000003,0.16882090909090908,0.96,0.5,0.85,Prototype baseline assumption,True
+Independent,F03,Barley,Cereal,0.5863716818181818,3.0,0.725,0.6,0.65,0.5587168181818182,0.28,0.5,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Independent,F04,Alfalfa,Forage legume,0.685,1.0,0.65,0.89,0.6,0.5,0.77,0.5,0.9,Prototype baseline assumption,True
+Independent,F04,Wheat,Cereal,0.6845,2.0,0.825,0.76,0.65,0.5,0.7000000000000001,0.5,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Independent,F04,Faba bean,Legume,0.649,3.0,0.73,0.71,0.65,0.5,0.48000000000000004,0.5,0.85,Prototype baseline assumption,True
+Independent,F05,Alfalfa,Forage legume,0.73662,1.0,0.65,0.89,0.8,0.5662,0.92,0.5,0.9,Prototype baseline assumption,True
+Independent,F05,Faba bean,Legume,0.6535175,2.0,0.73,0.71,0.4625,0.34642500000000004,0.96,0.5,0.85,Prototype baseline assumption,True
+Independent,F05,Forage oats,Cereal,0.6338625,3.0,0.72,0.71,0.7875,0.577375,0.30000000000000004,0.5,0.4,Prototype baseline assumption,True
+Independent,F06,Wheat,Cereal,0.6984113513513514,1.0,0.825,0.9400000000000001,0.6,0.35411351351351344,0.7000000000000001,0.5,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Independent,F06,Forage oats,Cereal,0.6703391891891892,2.0,0.72,0.89,0.475,0.6308918918918918,0.7200000000000001,0.5,0.4,Prototype baseline assumption,True
+Independent,F06,Barley,Cereal,0.6670767567567568,3.0,0.725,0.79,0.65,0.5657675675675674,0.7000000000000001,0.5,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Independent,F07,Lentil,Legume,0.6545814545454546,1.0,0.7,0.7,0.8,0.14081454545454544,0.78,0.5,0.85,Prototype baseline assumption,True
+Independent,F07,Faba bean,Legume,0.6331803636363637,2.0,0.73,0.5,0.75,0.31180363636363634,0.78,0.5,0.85,Prototype baseline assumption,True
+Independent,F07,Wheat,Cereal,0.6271687272727272,3.0,0.825,0.44999999999999996,0.9,0.2916872727272727,0.5800000000000001,0.5,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Independent,F08,Alfalfa,Forage legume,0.7130532765957447,1.0,0.65,0.71,0.8,0.6905327659574468,0.92,0.5,0.9,Prototype baseline assumption,True
+Independent,F08,Faba bean,Legume,0.6971247021276596,2.0,0.73,0.89,0.4625,0.4224970212765958,0.96,0.5,0.85,Prototype baseline assumption,True
+Independent,F08,Forage oats,Cereal,0.682541170212766,3.0,0.72,0.89,0.7875,0.7041617021276595,0.30000000000000004,0.5,0.4,Prototype baseline assumption,True
+Independent,F09,Lentil,Legume,0.686710909090909,1.0,0.7,0.7,0.9,0.13210909090909093,0.96,0.5,0.85,Prototype baseline assumption,True
+Independent,F09,Faba bean,Legume,0.6717527272727273,2.0,0.73,0.5,0.9,0.29252727272727275,0.96,0.5,0.85,Prototype baseline assumption,True
+Independent,F09,Barley,Cereal,0.5367218181818182,3.0,0.725,0.6,0.4,0.43721818181818184,0.28,0.5,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Independent,F10,Alfalfa,Forage legume,0.6852,1.0,0.65,0.9,0.6,0.482,0.77,0.5,0.9,Prototype baseline assumption,True
+Independent,F10,Wheat,Cereal,0.6200881578947368,2.0,0.825,0.55,0.65,0.27588157894736837,0.7000000000000001,0.5,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Independent,F10,Faba bean,Legume,0.5864907894736843,3.0,0.73,0.5,0.65,0.2949078947368421,0.48000000000000004,0.5,0.85,Prototype baseline assumption,True
+Independent,F11,Faba bean,Legume,0.6212918000000001,1.0,0.73,0.5,0.4625,0.444168,0.96,0.5,0.85,Prototype baseline assumption,True
+Independent,F11,Forage oats,Cereal,0.608153,2.0,0.72,0.5,0.7875,0.7402799999999999,0.30000000000000004,0.5,0.4,Prototype baseline assumption,True
+Independent,F11,Barley,Cereal,0.6025114,3.0,0.725,0.6,0.6875,0.663864,0.28,0.5,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Independent,F12,Alfalfa,Forage legume,0.691160262295082,1.0,0.65,0.89,0.6,0.5616026229508196,0.77,0.5,0.9,Prototype baseline assumption,True
+Independent,F12,Wheat,Cereal,0.6535193606557377,2.0,0.825,0.76,0.5625,0.321443606557377,0.7000000000000001,0.5,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Independent,F12,Faba bean,Legume,0.6389862131147541,3.0,0.73,0.71,0.6875,0.34361213114754097,0.48000000000000004,0.5,0.85,Prototype baseline assumption,True
+Diversity-aware,F01,Lentil,Legume,0.7585,1.0,0.7,0.7,0.8,0.5,0.96,1.0,0.85,Prototype baseline assumption,True
+Diversity-aware,F01,Faba bean,Legume,0.72,2.0,0.73,0.5,0.75,0.5,0.96,1.0,0.85,Prototype baseline assumption,True
+Diversity-aware,F01,Wheat,Cereal,0.668,3.0,0.825,0.44999999999999996,0.9,0.5,0.28,1.0,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Diversity-aware,F02,Faba bean,Legume,0.6353783324172805,1.0,0.73,0.5,0.4625,0.3944045454545454,0.96,0.6906287787182588,0.85,Prototype baseline assumption,True
+Diversity-aware,F02,Forage oats,Cereal,0.6181057656370232,2.0,0.72,0.5,0.7875,0.657340909090909,0.30000000000000004,0.6824667472793229,0.4,Prototype baseline assumption,True
+Diversity-aware,F02,Barley,Cereal,0.6115155952511817,3.0,0.725,0.6,0.6875,0.5894863636363635,0.28,0.6644195888754534,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Diversity-aware,F03,Faba bean,Legume,0.6547285653923878,1.0,0.73,0.5,0.6,0.3738177272727273,0.96,0.6984679266511508,0.85,Prototype baseline assumption,True
+Diversity-aware,F03,Lentil,Legume,0.6483441804528947,2.0,0.7,0.7,0.47500000000000003,0.16882090909090908,0.96,0.7171208954380377,0.85,Prototype baseline assumption,True
+Diversity-aware,F03,Barley,Cereal,0.6005127961354055,3.0,0.725,0.6,0.65,0.5587168181818182,0.28,0.641411143172237,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Diversity-aware,F04,Alfalfa,Forage legume,0.7350000000000001,1.0,0.65,0.89,0.6,0.5,0.77,1.0,0.9,Prototype baseline assumption,True
+Diversity-aware,F04,Wheat,Cereal,0.7009800902561096,2.0,0.825,0.76,0.65,0.5,0.7000000000000001,0.6648009025610959,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Diversity-aware,F04,Faba bean,Legume,0.6686208314587512,3.0,0.73,0.71,0.65,0.5,0.48000000000000004,0.696208314587512,0.85,Prototype baseline assumption,True
+Diversity-aware,F05,Alfalfa,Forage legume,0.7818481263318368,1.0,0.65,0.89,0.8,0.5662,0.92,0.9522812633183672,0.9,Prototype baseline assumption,True
+Diversity-aware,F05,Faba bean,Legume,0.6754255964891661,2.0,0.73,0.71,0.4625,0.34642500000000004,0.96,0.7190809648916615,0.85,Prototype baseline assumption,True
+Diversity-aware,F05,Forage oats,Cereal,0.6488134504853542,3.0,0.72,0.71,0.7875,0.577375,0.30000000000000004,0.649509504853542,0.4,Prototype baseline assumption,True
+Diversity-aware,F06,Wheat,Cereal,0.7153595603331796,1.0,0.825,0.9400000000000001,0.6,0.35411351351351344,0.7000000000000001,0.6694820898182825,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Diversity-aware,F06,Faba bean,Legume,0.6893717039317737,2.0,0.73,0.89,0.6,0.37853513513513504,0.48000000000000004,0.7401819041826015,0.85,Prototype baseline assumption,True
+Diversity-aware,F06,Forage oats,Cereal,0.6856276390508369,3.0,0.72,0.89,0.475,0.6308918918918918,0.7200000000000001,0.6528844986164765,0.4,Prototype baseline assumption,True
+Diversity-aware,F07,Lentil,Legume,0.6883572104519834,1.0,0.7,0.7,0.8,0.14081454545454544,0.78,0.8377575590652888,0.85,Prototype baseline assumption,True
+Diversity-aware,F07,Faba bean,Legume,0.6585731448233104,2.0,0.73,0.5,0.75,0.31180363636363634,0.78,0.7539278118694677,0.85,Prototype baseline assumption,True
+Diversity-aware,F07,Wheat,Cereal,0.6440850701890831,3.0,0.825,0.44999999999999996,0.9,0.2916872727272727,0.5800000000000001,0.6691634291635588,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Diversity-aware,F08,Alfalfa,Forage legume,0.7506527949557531,1.0,0.65,0.71,0.8,0.6905327659574468,0.92,0.8759951836000839,0.9,Prototype baseline assumption,True
+Diversity-aware,F08,Faba bean,Legume,0.7220674157354103,2.0,0.73,0.89,0.4625,0.4224970212765958,0.96,0.7494271360775069,0.85,Prototype baseline assumption,True
+Diversity-aware,F08,Forage oats,Cereal,0.6976792394327653,3.0,0.72,0.89,0.7875,0.7041617021276595,0.30000000000000004,0.6513806921999931,0.4,Prototype baseline assumption,True
+Diversity-aware,F09,Lentil,Legume,0.7204646643189417,1.0,0.7,0.7,0.9,0.13210909090909093,0.96,0.8375375522803266,0.85,Prototype baseline assumption,True
+Diversity-aware,F09,Faba bean,Legume,0.697073401063433,2.0,0.73,0.5,0.9,0.29252727272727275,0.96,0.7532067379070571,0.85,Prototype baseline assumption,True
+Diversity-aware,F09,Barley,Cereal,0.5518201264305722,3.0,0.725,0.6,0.4,0.43721818181818184,0.28,0.6509830824875402,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Diversity-aware,F10,Alfalfa,Forage legume,0.7228423950672226,1.0,0.65,0.9,0.6,0.482,0.77,0.8764239506722253,0.9,Prototype baseline assumption,True
+Diversity-aware,F10,Wheat,Cereal,0.6374053911160342,2.0,0.825,0.55,0.65,0.27588157894736837,0.7000000000000001,0.6731723322129739,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Diversity-aware,F10,Faba bean,Legume,0.6109984448971864,3.0,0.73,0.5,0.65,0.2949078947368421,0.48000000000000004,0.7450765542350212,0.85,Prototype baseline assumption,True
+Diversity-aware,F11,Faba bean,Legume,0.6469835630327995,1.0,0.73,0.5,0.4625,0.444168,0.96,0.7569176303279945,0.85,Prototype baseline assumption,True
+Diversity-aware,F11,Forage oats,Cereal,0.6236350728339898,2.0,0.72,0.5,0.7875,0.7402799999999999,0.30000000000000004,0.6548207283398972,0.4,Prototype baseline assumption,True
+Diversity-aware,F11,Lentil,Legume,0.6227175687586414,3.0,0.7,0.7,0.19999999999999998,0.200592,0.96,0.8415836875864138,0.85,Prototype baseline assumption,True
+Diversity-aware,F12,Alfalfa,Forage legume,0.7280128321572055,1.0,0.65,0.89,0.6,0.5616026229508196,0.77,0.868525698621235,0.9,Prototype baseline assumption,True
+Diversity-aware,F12,Wheat,Cereal,0.6705928796795657,2.0,0.825,0.76,0.5625,0.321443606557377,0.7000000000000001,0.6707351902382799,0.35,FAO-IIASA GAEZ v5 regional screening,False
+Diversity-aware,F12,Faba bean,Legume,0.6640525905493105,3.0,0.73,0.71,0.6875,0.34361213114754097,0.48000000000000004,0.7506637743455645,0.85,Prototype baseline assumption,True
